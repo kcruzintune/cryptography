@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*- 
-"""
-Created on Tue Feb 15 20:23:47 2022
-"""
+
 #Kevin Cruz
 #CS 113
 #2/15/22
