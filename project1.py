@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*- 
 """
 Created on Tue Feb 15 20:23:47 2022
-
-@author: kcruz29
 """
 #Kevin Cruz
 #CS 113
